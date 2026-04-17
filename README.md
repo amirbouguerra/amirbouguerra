@@ -72,7 +72,7 @@ Customizing Shopify themes, building responsive web layouts, and integrating adv
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amirbouguerra&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=amirbouguerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
