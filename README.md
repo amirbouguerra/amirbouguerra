@@ -8,9 +8,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amir-bouguerra/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=amirbouguerra&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=amirbouguerra&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -51,49 +51,30 @@ Customizing Shopify themes, building responsive web layouts, and integrating adv
 
 <h3 align="center">Professional Experience & Education</h3>
 
-<table align="center" width="100%"><tr>
+<br>
 
-<td width="50%" valign="top">
+<div align="center">
 
-<h4 align="center">Experience</h4>
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education & Credentials &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|
+| **Shopify Designer** — Kwefi.com <br> Remote · Jun 2025 – Oct 2025 | **Master's in Automation Engineering** <br> Université 20 Août 1955 · 2021 – 2023 |
+| **Freelance Designer** — PeoplePerHour <br> Algeria · 2018 – 2019 | **CCNA: Introduction to Networks** <br> Cisco Networking Academy · 2022 – 2023 |
+| **Internet Cafe Manager** — Red & Black <br> Algeria · Jan 2023 – Aug 2024 | **Google IT Support** · **Digital Marketing** · **EF SET C1** · **Meta Front-End** |
 
-| Role | Company |
-|------|---------|
-| Shopify Designer | Kwefi.com |
-| Freelance Designer | PeoplePerHour |
-| Internet Cafe Manager | Red & Black Cyber Cafe |
-
-</td>
-
-<td width="50%" valign="top">
-
-<h4 align="center">Education & Credentials</h4>
-
-| Credential | Issuer |
-|-----------|--------|
-| Master's in Automation Engineering | Université 20 Août 1955 |
-| Meta Front-End Development Certificate | Meta |
-| Google IT Support Professional Certificate | Google |
-| Google Digital Marketing Certification | Google |
-| CCNA: Introduction to Networks | Cisco |
-| EF SET English C1 Advanced | EF SET |
-
-</td>
-
-</tr></table>
+</div>
 
 ---
 
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amirbouguerra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amirbouguerra&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbouguerra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbouguerra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbouguerra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=amirbouguerra&theme=tokyonight&hide_border=true" />
 </p>
