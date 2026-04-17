@@ -65,13 +65,6 @@ Advanced skincare product page for the GlowVita Micro Infusion System. Highlight
 
 ---
 
-**MINA™**  Microcurrent Wellness Device
-Modern Shopify product page for a handheld microcurrent device. Minimal, calm layout reflecting the brand's identity — optimized for clarity and conversion.
-
-[![MINA](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/mina.png?raw=true)](https://www.miina.online/)
-
----
-
 **GritFit**  Cargo Pants Shopify Store
 Bold branding with functional design for GritFit Cargo Pants. Clean, modern layout showcasing durability and lifestyle visuals capturing the "Built for Movement. Designed for Grit." identity.
 
