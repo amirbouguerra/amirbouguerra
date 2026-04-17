@@ -90,8 +90,6 @@ Built with TypeScript, CSS, and HTML. Deployed on Netlify. A clean, modern resta
 
 ### GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbouguerra&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=amirbouguerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img src="https://streak-stats.demolab.com?user=amirbouguerra&theme=tokyonight&hide_border=true" />
