@@ -88,6 +88,14 @@ Built with TypeScript, CSS, and HTML. Deployed on Netlify. A clean, modern resta
 
 ---
 
+**ABRIX Web Agency Landing Page**
+Built with TypeScript, CSS, and HTML. A modern, conversion-focused agency website featuring a 72-hour delivery promise, quote request form, and responsive design optimized for the Algerian market.
+
+[![ABRIX Agency](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/abrix.png?raw=true)](https://abrix-v2.netlify.app/)
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+
+---
 ### GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=amirbouguerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
