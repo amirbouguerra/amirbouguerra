@@ -82,7 +82,7 @@ Family-friendly Shopify store for an ergonomic baby bath seat. Warm, minimal des
 **Green Olive Restaurant**  Web App
 Built with TypeScript, CSS, and HTML. Deployed on Netlify. A clean, modern restaurant website with a component-based architecture.
 
-[![Green Olive](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/greenolive.png?raw=true)](https://greenolivebridgwater.netlify.app/)
+[![Green Olive](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/greenolive.png?raw=true)](https://greenolivebridgwater.abrix.sbs/)
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 
