@@ -47,7 +47,7 @@ Customizing Shopify themes, building responsive web layouts, and integrating adv
 **Brano**  Premium Travel Backpack Store
 Bilingual Shopify store (English & Spanish) for a premium travel backpack brand. Sleek, functional design highlighting quality and durability, optimized for mobile and desktop with seamless language switching.
 
-[![Brano](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/brano.png?raw=true)](https://github.com/amirbouguerra)
+[![Brano](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/brano.png?raw=true)](http://brano.store/)
 
 ---
 
