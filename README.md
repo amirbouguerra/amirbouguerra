@@ -55,6 +55,8 @@ Bilingual Shopify store (English & Spanish) for a premium travel backpack brand.
 Modern, responsive Shopify store focused on wellness and fitness. Customized theme, optimized product presentation and user flow to reflect the brand's premium and empowering identity.
 
 [![BeautiFit](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/beautifit.png?raw=true)](https://beautifit.ae/)
+[![BeautiFit](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/Beautifit1.png?raw=true)](https://beautifit.ae/)
+[![BeautiFit](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/Beautifit2.png?raw=true)](https://beautifit.ae/)
 
 ---
 
