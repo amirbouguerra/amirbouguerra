@@ -88,6 +88,16 @@ Built with TypeScript, CSS, and HTML. Deployed on Netlify. A clean, modern resta
 
 ---
 
+**PremiumC** Premium Vitamin C Serum Product Page
+High-converting eCommerce landing page tailored for a skincare brand. Features a clean, trust-building layout with a dynamic customer reviews section (including custom filters for skin type and age), an interactive "How to Use" application guide with video integration, and optimized conversion elements.
+
+[![PremiumC](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/premiumc1.png?raw=true)](https://premiumc.abrix.sbs/)
+[![PremiumC](https://github.com/amirbouguerra/amirbouguerra/blob/main/assets/premiumc2.png?raw=true)](https://premiumc.abrix.sbs/)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+---
+
 **ABRIX Web Agency Landing Page**
 Built with TypeScript, CSS, and HTML. A modern, conversion-focused agency website featuring a 72-hour delivery promise, quote request form, and responsive design optimized for the Algerian market.
 
